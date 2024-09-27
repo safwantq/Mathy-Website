@@ -20,6 +20,13 @@ header {
     padding: 20px 0;
 }
 
+.video-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%; /* Ensures the container takes full width */
+}
+
 nav ul {
     list-style: none;
     text-align: center;
